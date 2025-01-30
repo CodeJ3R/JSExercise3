@@ -29,9 +29,9 @@ console.log("This is multiplying two variables together",jerExNum1*jerExNum2);
 // Using /
 console.log("This is dividing two variables together",jerExNum1/jerExNum2);
 // Using %
-console.log("This is dividing two variables together",jerExNum1%jerExNum2);
+console.log("This is when modules is used on the two variables together",jerExNum1%jerExNum2);
 // Using **
-console.log("This is dividing two variables together",jerExNum1**jerExNum2);
+console.log("This is using the exponential operator on two variables together",jerExNum1**jerExNum2);
 
 
 /* Part 2: Relational Operators
@@ -107,6 +107,7 @@ console.log("OH but what if its not sunny but it is the weekend?", isSunny&& isW
   
   let y = prompt ("Please enter your age: ", "Ex: 30");
   console.log ("Wow you are "+y+" years old");
+  
   
 
 
